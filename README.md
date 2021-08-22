@@ -1,2 +1,2 @@
 # Coursera
-Repo for Coursera Capstone Project
+Repo for jupyter notebooks from my capstone project in IBM's Data Science certificate on Coursera
